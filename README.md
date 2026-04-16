@@ -80,7 +80,7 @@ Modul untuk mengelola dan memonitor aset investasi.
 ![Investasi](investasi.jpeg)
 
 ### Sheet: investasi
-- Jenis investasi (Emas, Saham, dll)
+- Jenis investasi
 - Modal awal
 - Nilai sekarang
 - Keuntungan / kerugian
@@ -103,6 +103,5 @@ Modul untuk mengontrol semua pinjaman dan cicilan.
 - Cicilan bulanan
 - Tenor
 - Sisa hutang
-- Status pembayaran
 
 👉 Untuk memastikan semua utang terkontrol
