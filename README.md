@@ -30,7 +30,6 @@ Kolom:
 - Kategori
 - Nominal
 - Keterangan
-- Metode (Cash / Transfer)
 
 👉 Semua data keuangan dimulai dari sini
 
